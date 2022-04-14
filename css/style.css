@@ -1,5 +1,9 @@
+  a:active {color:green;}
+  a:visited {color: white;}
+
   body {
-    background-color: #143F6B
+    background-color: #143F6B;
+    color:gold;
         }
 
   hr {
